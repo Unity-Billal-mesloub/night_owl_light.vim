@@ -28,8 +28,8 @@ endif
 
 let g:night_owl_light_bold = get(g:, 'night_owl_light_bold', 0)
 hi ColorColumn guifg=NONE ctermfg=NONE guibg=#F0F0F0 ctermbg=255 gui=NONE cterm=NONE
-hi Cursor guifg=#90A7B2 ctermfg=109 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi CursorIM guifg=#90A7B2 ctermfg=109 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Cursor guifg=#FBFBFB ctermfg=15 guibg=#90A7B2 ctermbg=109 gui=NONE cterm=NONE
+hi CursorIM guifg=#FBFBFB ctermfg=15 guibg=#90A7B2 ctermbg=109 gui=NONE cterm=NONE
 hi CursorColumn guifg=NONE ctermfg=NONE guibg=#F0F0F0 ctermbg=255 gui=NONE cterm=NONE
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#F0F0F0 ctermbg=255 gui=NONE cterm=NONE
 hi CursorLineNr guifg=NONE ctermfg=NONE guibg=#F0F0F0 ctermbg=255 gui=NONE cterm=NONE
